@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Amansingh16032/Code-tracking/tree/master/0739-daily-temperatures) |
+| [0792-binary-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0792-binary-search) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -51,4 +52,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0226-invert-binary-tree](https://github.com/Amansingh16032/Code-tracking/tree/master/0226-invert-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Amansingh16032/Code-tracking/tree/master/0543-diameter-of-binary-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
