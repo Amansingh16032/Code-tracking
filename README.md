@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Amansingh16032/Code-tracking/tree/master/0078-subsets) |
 | [0200-number-of-islands](https://github.com/Amansingh16032/Code-tracking/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/Amansingh16032/Code-tracking/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0792-binary-search) |
@@ -80,4 +81,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/Amansingh16032/Code-tracking/tree/master/0133-clone-graph) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Amansingh16032/Code-tracking/tree/master/0078-subsets) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0078-subsets](https://github.com/Amansingh16032/Code-tracking/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
