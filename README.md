@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Amansingh16032/Code-tracking/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0079-word-search) |
 ## Stack
 |  |
 | ------- |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Amansingh16032/Code-tracking/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Amansingh16032/Code-tracking/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Amansingh16032/Code-tracking/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/Amansingh16032/Code-tracking/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0792-binary-search) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0079-word-search) |
 | [0133-clone-graph](https://github.com/Amansingh16032/Code-tracking/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/Amansingh16032/Code-tracking/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Amansingh16032/Code-tracking/tree/master/0226-invert-binary-tree) |
@@ -72,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Amansingh16032/Code-tracking/tree/master/0200-number-of-islands) |
 | [1036-rotting-oranges](https://github.com/Amansingh16032/Code-tracking/tree/master/1036-rotting-oranges) |
 ## Hash Table
@@ -87,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0046-permutations](https://github.com/Amansingh16032/Code-tracking/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Amansingh16032/Code-tracking/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0079-word-search) |
 ## Bit Manipulation
 |  |
 | ------- |
