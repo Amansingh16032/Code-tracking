@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Amansingh16032/Code-tracking/tree/master/0002-add-two-numbers) |
+| [0070-climbing-stairs](https://github.com/Amansingh16032/Code-tracking/tree/master/0070-climbing-stairs) |
 ## Tree
 |  |
 | ------- |
@@ -99,4 +100,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Amansingh16032/Code-tracking/tree/master/0078-subsets) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Amansingh16032/Code-tracking/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Amansingh16032/Code-tracking/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
