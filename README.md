@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Amansingh16032/Code-tracking/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Amansingh16032/Code-tracking/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0079-word-search) |
+| [0198-house-robber](https://github.com/Amansingh16032/Code-tracking/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Amansingh16032/Code-tracking/tree/master/0200-number-of-islands) |
 | [0739-daily-temperatures](https://github.com/Amansingh16032/Code-tracking/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/Amansingh16032/Code-tracking/tree/master/0792-binary-search) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amansingh16032/Code-tracking/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/Amansingh16032/Code-tracking/tree/master/0198-house-robber) |
 ## Memoization
 |  |
 | ------- |
